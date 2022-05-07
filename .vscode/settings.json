@@ -1,0 +1,14 @@
+{
+    "workbench.activityBar.visible": true,
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.editor.autoLockGroups": {},
+    "workbench.editor.closeEmptyGroups": true,
+    "workbench.editor.closeOnFileDelete": false,
+    "workbench.editor.enablePreview": true,
+    "workbench.editor.openPositioning": "right",
+    "workbench.panel.defaultLocation": "bottom",
+    "editor.suggest.showStatusBar": false,
+    "workbench.statusBar.visible": true
+}
